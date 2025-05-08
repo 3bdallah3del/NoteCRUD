@@ -143,7 +143,7 @@ const dispatch=useDispatch();
         ))
         ):
           <h2 className="text-center col-span-full text-gray-400 text-sm font-semibold mt-1">
-            No Posts
+            There are no notes.
           </h2>
         }
       </div>
